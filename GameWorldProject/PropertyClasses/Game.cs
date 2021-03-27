@@ -3,9 +3,9 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace GameWorldProject.PropertyClass
+namespace GameWorldProject.PropertyClasses
 {
-    class Game: ICustomerReservist
+    class Game : ICustomerReservist
     {
         public int Id { get; set; }
         public string Name { get; set; }

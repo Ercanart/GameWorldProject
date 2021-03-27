@@ -1,6 +1,5 @@
 ﻿using GameWorldProject.Adapters;
 using GameWorldProject.MethodClasses;
-using GameWorldProject.PropertyClass;
 using GameWorldProject.PropertyClasses;
 using System;
 

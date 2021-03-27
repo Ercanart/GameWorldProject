@@ -1,5 +1,5 @@
 ﻿using GameWorldProject.İnterfaces;
-using GameWorldProject.PropertyClass;
+using GameWorldProject.PropertyClasses;
 using System;
 using System.Collections.Generic;
 using System.Text;
