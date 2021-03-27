@@ -1,11 +1,12 @@
-﻿using GameWorldProject.PropertyClass;
+﻿using GameWorldProject.İnterfaces;
+using GameWorldProject.PropertyClass;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
 namespace GameWorldProject.MethodClasses
 {
-    class CampaignManager : ICampaignService
+    class CampaignManager : ICampignService
     {
         public void Add(Campaign campaign)
         {
