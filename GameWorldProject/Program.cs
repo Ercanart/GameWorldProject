@@ -24,7 +24,7 @@ namespace GameWorldProject
             };
             Customer customer2 = new Customer()
             {
-                FirstName = "Ruken",
+                FirstName = "Haldun",
                 NationalityId = "346464678",
                 DateOfBirth = new DateTime(1978, 07, 26),
                 LastName = "Ankara",
